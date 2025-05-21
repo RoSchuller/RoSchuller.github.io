@@ -25,25 +25,28 @@ Journal papers
 ------
 <p>
 <strong>&#91;J1&#93;</strong>&nbsp;<strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, and Christian Ott, &quot;Online Centroidal Angular Momentum Reference Generation and Motion Optimization for Humanoid Push Recovery,&quot;&nbsp;<em>IEEE Robotics and Automation Letters &#40;RA-L&#41;</em>, vol. 6, no. 3, pp. 5689-5696, July 2021. &#91; <a href="https://ieeexplore.ieee.org/abstract/document/9435940">PDF@IEEEXplore</a> &#93;<a accesskey="4" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" id="123" lang="89" name="67" title="10" type="11"></a><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" name="PDF@IEEEXplore"></a><p>
+<p>
+<strong>&#91;C2&#93;</strong> George Mesesan, <strong>Robert Schuller</strong>, Johannes Englsberger, Máximo A Roa, Jinoh Lee, Christian Ott, Alin Albu-Schäffer, &quot;Motion Planning for Humanoid Locomotion: Applications to Homelike Environments&quot;, in <i> in IEEE Robotics & Automation Magazine, vol. 32, no. 1, pp. 35-48, March 2025 &#91; <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10852154">PDF@IEEEXplore</a> &#93;.</p>
 
 Conference papers
 ------
 <p>
-	<strong>&#91;C1&#93;</strong> Johannes Englsberger, Alessandro M. Giordano, Achraf Hiddane, <strong>Robert Schuller</strong>, Florian Loeffel, George Mesesan, Christian Ott, &quot;From Space to Earth - Relative-CoM-to-Foot &#40;RCF&#41; control yields high contact robustness&quot;, in <i>Proc. of the 20th IEEE-RAS International Conference on Humanoid Robots</i>, Munich, Germany, July 2021. &#91; <a href="https://elib.dlr.de/143111/1/Humanoids_2021_RCF.pdf">Draft </a>&#93;</p>
+<strong>&#91;C1&#93;</strong> Johannes Englsberger, Alessandro M. Giordano, Achraf Hiddane, <strong>Robert Schuller</strong>, Florian Loeffel, George Mesesan, Christian Ott, &quot;From Space to Earth - Relative-CoM-to-Foot &#40;RCF&#41; control yields high contact robustness&quot;, in <i>Proc. of the 20th IEEE-RAS International Conference on Humanoid Robots</i>, Munich, Germany, July 2021. &#91; <a href="https://elib.dlr.de/143111/1/Humanoids_2021_RCF.pdf">Draft </a>&#93;</p>
 <p>
-	<strong>&#91;C2&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, and Christian Ott, &quot;Online Learning of Centroidal Angular Momentum Towards Enhancing DCM-Based Locomotion&quot;, in <i>Proc. of the IEEE International Conference on Robotics and Automation</i>, 10442-10448, Philadelphia, USA, Mai 2022 &#91; <a href="https://ieeexplore.ieee.org/abstract/document/9811708">PDF@IEEEXplore</a> &#93;.</p>
+<strong>&#91;C2&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, and Christian Ott, &quot;Online Learning of Centroidal Angular Momentum Towards Enhancing DCM-Based Locomotion&quot;, in <i>Proc. of the IEEE International Conference on Robotics and Automation</i>, 10442-10448, Philadelphia, USA, Mai 2022 &#91; <a href="https://ieeexplore.ieee.org/abstract/document/9811708">PDF@IEEEXplore</a> &#93;.</p>
 <p>
-	<strong>&#91;C3&#93;</strong> Jean-Pascal Lutze, <strong>Robert Schuller</strong>, Hrishik Mishra, Ismael Rodriguez and Maximo A. Roa, &quot;<span lang="EN-US" style="mso-ansi-language:EN-US">Optimization of multi-arm robot locomotion to reduce satellite disturbances during in-orbit assembly</span>&quot;, in <i>Proc. of the IEEE Aerospace Conference</i>, 1-11, Big Sky, MT, USA, Mai 2022 &#91; <a href="https://ieeexplore.ieee.org/abstract/document/10115776">PDF@IEEEXplore</a> &#93;.</p>
-
-
-
+<strong>&#91;C3&#93;</strong> Jean-Pascal Lutze, <strong>Robert Schuller</strong>, Hrishik Mishra, Ismael Rodriguez and Maximo A. Roa, &quot;<span lang="EN-US" style="mso-ansi-language:EN-US">Optimization of multi-arm robot locomotion to reduce satellite disturbances during in-orbit assembly</span>&quot;, in <i>Proc. of the IEEE Aerospace Conference</i>, 1-11, Big Sky, MT, USA, Mai 2022 &#91; <a href="https://ieeexplore.ieee.org/abstract/document/10115776">PDF@IEEEXplore</a> &#93;.</p>
+<strong>&#91;C2&#93;</strong> Sait Sovukluk, <strong>Robert Schuller</strong>, Johannes Englsberger, Christian Ott, &quot;Realtime Limb Trajectory Optimization for Humanoid Running Through Centroidal Angular Momentum Dynamics&quot;, in <i>Proc. of the IEEE International Conference on Robotics and Automation</i>, Atlanta, USA, Mai 2025 &#91; <a href="https://arxiv.org/abs/2501.17351">Draft</a> &#93;.</p>
+<strong>&#91;C2&#93;</strong> Connor W Herron, <strong>Robert Schuller</strong>, Benjamin C Beiter, Robert J Griffin, Alexander Leonessa, Johannes Englsberger, &quot;Angular Divergent Component of Motion: A step towards planning Spatial DCM Objectives for Legged Robots&quot;, in <i>Proc. of the IEEE International Conference on Robotics and Automation</i>, Atlanta, USA, Mai 2025 &#91; <a href="https://arxiv.org/pdf/2409.12796">Draft</a> &#93;.</p>
 
 Patents
 ======
 <p>
-	<strong>&#91;P1</strong><strong>&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, Christian Ott, &quot;Verfahren zur Balancierung eines Roboters....&quot;, German patent application no. 10 2021112 485.9, filed on Mai 12, 2021.</p>
+<strong>&#91;P1</strong><strong>&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, Christian Ott, &quot;Verfahren zur Balancierung eines Roboters....&quot;, German patent application no. 10 2021112 485.9, filed on Mai 12, 2021.</p>
 <p>
 	<strong>&#91;P2</strong><strong>&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, Christian Ott, &quot;Verfahren zur Gangsteuerung eines Roboters....&quot;, German patent application no. 10 2022 107 587.7, filed on March 30, 2022 &#40;under review&#41;.</p>
+ <p>
+	<strong>&#91;P3</strong><strong>&#93;</strong>George&nbsp;Mesesan,  <strong>Robert Schuller</strong>, Johannes Englsberger, Christian Ott, &quot;Verfahren und System zum Planen ....&quot;, German patent application no. DE102023126559B3, filed on March 6, 2025.</p>
 
 Miscellaneous
 ======
@@ -51,8 +54,6 @@ Miscellaneous
 	<strong>&#91;M2&#93;</strong> <strong>Robert Schuller</strong>, &quot;Whole-body Motion Planning and Control of Angular Momentum Tasks in Humanoid Robots,&quot; Master&#39;s thesis, Technical University Munich, May 2020. &#91; <a href="https://elib.dlr.de/135805/">PDF@ELIB</a> &#93;</p>
 <p>
 	<strong>&#91;M1</strong>&#93; <strong>Robert Schuller</strong>, &quot;Torque Control of a New Lightweight Actuator Module for Robotic Applications,&quot; Term paper, Technical University Munich, Sep. 2019. &#91; <a href="https://elib.dlr.de/129651/">PDF@ELIB</a> &#93;</p>
-
-
 
 Multimedia
 ======

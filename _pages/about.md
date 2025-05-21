@@ -11,11 +11,11 @@ Robert Schuller received his M.Sc. in Mechanical Engineering from the Technical 
 
 Interests
 ======
-1. Robotics
-2. Motion Planning
-3. Control
-4. Optimization
-5. Legged Robots
+- Robotics
+- Motion Planning
+- Control
+- Optimization
+- Legged Robots
 
 
 Getting started

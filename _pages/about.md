@@ -24,7 +24,7 @@ Robert Schuller, et al., &quot;Centroidal Angular Momentum-Aware Locomotion: Ena
 
 Robert Schuller, et al., &quot;Grounding the Three-Dimensional Divergent Component of Motion: Geometric Analysis of Contact and Dynamic Stability and its Application to Humanoid Push Recovery&quot;  in <i>The International Journal of Robotics Research</i>, Dez 2024 (submitted).
 
-Robert Schuller, et al., &quot;An experimental study of the sensorized strain wave gear RT1-T and its capabilities for torque control in robotic joints&quot;, <i>Frontiers in Robotics and AI<i>, Nov 2024.
+Robert Schuller, et al., &quot;An experimental study of the sensorized strain wave gear RT1-T and its capabilities for torque control in robotic joints&quot;, <i>Frontiers in Robotics and AI</i>, Nov 2024.
 
 Robert Schuller, et al., &quot;Online Learning of Centroidal Angular Momentum Towards Enhancing DCM-Based Locomotion&quot;, in <i>Proc. of the IEEE International Conference on Robotics and Automation</i>, 10442-10448, Philadelphia, USA, Mai 2022.
 

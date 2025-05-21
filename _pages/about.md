@@ -38,10 +38,8 @@ Multimedia
 <p>
 	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://youtu.be/fjWAu4-EGEQ?t=16" title="YouTube video player" width="560"></iframe></p>
 <p>1st Place, IEEE Humanoids 2024 Adult-sized Biped Walk Competition &nbsp;</p>
- 
-
-
-
+ <p>
+	&nbsp;</p>
 <p>
 	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/r3kK8hVDDIc" title="YouTube video player" width="560"></iframe></p>
 <p>

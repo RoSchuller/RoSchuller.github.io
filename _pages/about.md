@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Bio"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+Biography
+======
 
 Robert Schuller received his M.Sc. in Mechanical Engineering from the Technical University of Munich (TUM) in 2020. In the same year, he joined the Institute of Robotics and Mechatronics at the German Aerospace Center (DLR) as a research scientist. His research focuses on motion planning and control, particularly in the context of humanoid robotics and legged locomotion.
 
@@ -47,7 +49,8 @@ Multimedia
 ======
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fjWAu4-EGEQ?si=_KPUksUU4iQYVq8b&amp;start=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-<p>1st Place, IEEE Humanoids 2024 Adult-sized Biped Walk Competition &nbsp;</p>
+<p>
+	1st Place, IEEE Humanoids 2024 Adult-sized Biped Walk Competition. &nbsp;</p>
  <p>
 	&nbsp;</p>
 <p>

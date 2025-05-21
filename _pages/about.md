@@ -47,16 +47,12 @@ George&nbsp;Mesesan,  <strong>Robert Schuller</strong>, Johannes Englsberger, Ch
 Jean-Pascal Lutze,  <strong>Robert Schuller</strong>, Hrishik Mishra &quot;Erweiterbares Attitude Control System ...&quot;, German patent application no. 10 202313 6423.5, &#40;under review&#41;.</p>
  <p>
 <strong>Robert Schuller</strong>,  Jean-Pascal Lutze,  Roberto Lampariello, Hrishik Mishra, &quot;System und Verfahren zur Lageregelung ...&quot;, German patent application no. 10 202411 8224.5, &#40;under review&#41;.</p>
- <p>
 
 
 
 Multimedia
 ======
 
-<p>
-	&nbsp;</p>
- 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fjWAu4-EGEQ?si=_KPUksUU4iQYVq8b&amp;start=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>
 	1st Place, IEEE Humanoids 2024 Adult-sized Biped Walk Competition. &nbsp;</p>

@@ -38,13 +38,13 @@ Multimedia
 <p>
 	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/r3kK8hVDDIc" title="YouTube video player" width="560"></iframe></p>
 <p>
-	<strong>&#91;C2&#93; </strong>Gait generation frameworks for humanoid robots typically assume a constant centroidal angular momentum &#40;CAM&#41; throughout the walking cycle, which induces undesirable contact torques in the feet and results in performance degradation. In this work, we present a novel algorithm to learn the CAM online and include the obtained knowledge within the closed-form solutions of the Divergent Component of Motion &#40;DCM&#41; locomotion framework. To ensure a reduction of the contact torques at the desired center of pressure position, a CAM trajectory is generated and explicitly tracked by a wholebody controller.&nbsp;</p>
+	Gait generation frameworks for humanoid robots typically assume a constant centroidal angular momentum &#40;CAM&#41; throughout the walking cycle, which induces undesirable contact torques in the feet and results in performance degradation. In this work, we present a novel algorithm to learn the CAM online and include the obtained knowledge within the closed-form solutions of the Divergent Component of Motion &#40;DCM&#41; locomotion framework. To ensure a reduction of the contact torques at the desired center of pressure position, a CAM trajectory is generated and explicitly tracked by a wholebody controller.&nbsp;</p>
 <p>
 	&nbsp;</p>
 <p>
 	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/pyrPQFUHV44" title="YouTube video player" width="560"></iframe></p>
 <p>
-	<strong>&#91;J1&#93;</strong>&nbsp; This video presents a push recovery algorithm for humanoid robots in balancing scenarios by exploiting the system&rsquo;s rotational dynamics. The robot actively generates centroidal angular momentum &#40;CAM&#41; references based on the force magnitude and direction of the push to counteract the disturbance and maintain its balance.</p>
+	This video presents a push recovery algorithm for humanoid robots in balancing scenarios by exploiting the system&rsquo;s rotational dynamics. The robot actively generates centroidal angular momentum &#40;CAM&#41; references based on the force magnitude and direction of the push to counteract the disturbance and maintain its balance.</p>
 <p>
 	&nbsp;</p>
 <p>

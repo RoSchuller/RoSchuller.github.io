@@ -36,6 +36,13 @@ Patents
 Multimedia
 ======
 <p>
+	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://youtu.be/fjWAu4-EGEQ?t=16" title="YouTube video player" width="560"></iframe></p>
+<p>1st Place, IEEE Humanoids 2024 Adult-sized Biped Walk Competition &nbsp;</p>
+ 
+
+
+
+<p>
 	<iframe allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen="" frameborder="0" height="315" src="https://www.youtube.com/embed/r3kK8hVDDIc" title="YouTube video player" width="560"></iframe></p>
 <p>
 	Gait generation frameworks for humanoid robots typically assume a constant centroidal angular momentum &#40;CAM&#41; throughout the walking cycle, which induces undesirable contact torques in the feet and results in performance degradation. In this work, we present a novel algorithm to learn the CAM online and include the obtained knowledge within the closed-form solutions of the Divergent Component of Motion &#40;DCM&#41; locomotion framework. To ensure a reduction of the contact torques at the desired center of pressure position, a CAM trajectory is generated and explicitly tracked by a wholebody controller.&nbsp;</p>

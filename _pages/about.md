@@ -54,6 +54,9 @@ Jean-Pascal Lutze,  <strong>Robert Schuller</strong>, Hrishik Mishra &quot;Erwei
 Multimedia
 ======
 
+<p>
+	&nbsp;</p>
+ 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/fjWAu4-EGEQ?si=_KPUksUU4iQYVq8b&amp;start=16" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 <p>
 	1st Place, IEEE Humanoids 2024 Adult-sized Biped Walk Competition. &nbsp;</p>

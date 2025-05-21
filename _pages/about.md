@@ -32,12 +32,6 @@ Patents
  <p>
 	<strong>&#91;P3</strong><strong>&#93;</strong>George&nbsp;Mesesan,  <strong>Robert Schuller</strong>, Johannes Englsberger, Christian Ott, &quot;Verfahren und System zum Planen ....&quot;, German patent application no. DE102023126559B3, filed on March 6, 2025.</p>
 
-Miscellaneous
-======
-<p>
-	<strong>&#91;M2&#93;</strong> <strong>Robert Schuller</strong>, &quot;Whole-body Motion Planning and Control of Angular Momentum Tasks in Humanoid Robots,&quot; Master&#39;s thesis, Technical University Munich, May 2020. &#91; <a href="https://elib.dlr.de/135805/">PDF@ELIB</a> &#93;</p>
-<p>
-	<strong>&#91;M1</strong>&#93; <strong>Robert Schuller</strong>, &quot;Torque Control of a New Lightweight Actuator Module for Robotic Applications,&quot; Term paper, Technical University Munich, Sep. 2019. &#91; <a href="https://elib.dlr.de/129651/">PDF@ELIB</a> &#93;</p>
 
 Multimedia
 ======

@@ -22,7 +22,7 @@ Publications
 ======
 Robert Schuller, et al., &quot;Centroidal Angular Momentum-Aware Locomotion: Enabling Robust Walking and Running,&quot;&nbsp;<em>IEEE Robotics and Automation Letters &#40;RA-L&#41;</em>, Mai 2025 (submitted).
 
-Robert Schuller, et al., &quot;Grounding the Three-Dimensional Divergent Component of Motion: Geometric Analysis of Contact and Dynamic Stability and its Application to Humanoid Push Recovery&quot;  in <i>The International Journal of Robotics Research</i>, Dez 2024 (submitted).
+Robert Schuller, et al., &quot;Grounding the Three-Dimensional Divergent Component of Motion: Geometric Analysis of Contact and Dynamic Stability and its Application to Humanoid Push Recovery&quot; <i>The International Journal of Robotics Research</i>, Dez 2024 (submitted).
 
 Robert Schuller, et al., &quot;An experimental study of the sensorized strain wave gear RT1-T and its capabilities for torque control in robotic joints&quot;, <i>Frontiers in Robotics and AI</i>, Nov 2024.
 

@@ -40,7 +40,7 @@ Patents
 <p>
 	<strong>&#91;P2</strong><strong>&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, Christian Ott, &quot;Verfahren zur Gangsteuerung eines Roboters....&quot;, German patent application no. 10 2022 107 587.7, filed on March 30, 2022 &#40;under review&#41;.</p>
  <p>
-	<strong>&#91;P3</strong><strong>&#93;</strong> George&nbsp;Mesesan,  <strong>Robert Schuller</strong>, Johannes Englsberger, Christian Ott, &quot;Verfahren und System zum Planen ....&quot;, German patent application no. DE102023126559B3, filed on March 6, 2025.</p>
+	<strong>&#91;P3</strong><strong>&#93;</strong> George&nbsp;Mesesan,  <strong>Robert Schuller</strong>, Johannes Englsberger, Christian Ott, &quot;Verfahren und System zum Planen ....&quot;, German patent application no. 10 202312 655.9, filed on March 6, 2025.</p>
 
 
 Multimedia

@@ -18,14 +18,18 @@ Interests
 - Legged Robots
 
 
-Getting started
+Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Fork [this template](https://github.com/academicpages/academicpages.github.io) by clicking the "Use this template" button in the top right. 
-1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
-1. Upload any files (like PDFs, .zip files, etc.) to the files/ directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.  
-1. Check status by going to the repository settings, in the "GitHub pages" section
+Journal papers
+------
+<strong>&#91;J1&#93;</strong>&nbsp;<strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, and Christian Ott, &quot;Online Centroidal Angular Momentum Reference Generation and Motion Optimization for Humanoid Push Recovery,&quot;&nbsp;<em>IEEE Robotics and Automation Letters &#40;RA-L&#41;</em>, vol. 6, no. 3, pp. 5689-5696, July 2021. &#91; <a href="https://ieeexplore.ieee.org/abstract/document/9435940">PDF@IEEEXplore</a> &#93;<a accesskey="4" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" id="123" lang="89" name="67" title="10" type="11"></a><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" name="PDF@IEEEXplore"></a></p>
+
+Conference papers
+------
+
+Patents
+======
+
 
 Site-wide configuration
 ------

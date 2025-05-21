@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Robert Schuller"
+title                    : "Robert Schuller | Homepage"
 title_separator          : "-"
 name                     : &name "Robert Schuller"
 description              : &description "personal description"
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Robert Schuller"
   pronouns         : # example: "she/her"  
-  bio              : "Robert Schuller received his M. Sc. in mechanical engineering from the Technical University of Munich (TUM) in 2020. He joined the Institute of Robotics and Mechatronics of the German Aerospace Center (DLR) as research scientist in 2020. His professional is about humanoid robots, legged locomotion and whole-body control."
+  bio              : "Research Scientists in Robotics and Control"
   location         : #"Earth"
   employer         : #"Red Brick University"
   uri              : # URL

@@ -20,6 +20,16 @@ Interests
 
 Publications
 ======
+Robert Schuller, George Mesesan, Johannes Englsberger, Jinoh Lee, and Alin Albu-Schäffer, &quot;Centroidal Angular Momentum-Aware Locomotion: Enabling Robust Walking and Running,&quot;&nbsp;<em>IEEE Robotics and Automation Letters &#40;RA-L&#41;</em>, Mai 2025 (submitted).
+
+Robert Schuller, George Mesesan, Johannes Englsberger, Jinoh Lee, Christian Ott, and Alin Albu-Schäffer, &quot;Grounding the Three-Dimensional Divergent Component of Motion: Geometric Analysis of Contact and Dynamic Stability and its Application to Humanoid Push Recovery&quot;  in <i>The International Journal of Robotics Research</i>, Dez 2024 (submitted).
+
+Robert Schuller, et al. "An experimental study of the sensorized strain wave gear RT1-T and its capabilities for torque control in robotic joints." Frontiers in Robotics and AI 11 (2024): 1416360.
+
+Robert Schuller, George Mesesan, Johannes Englsberger, Jinoh Lee, and Christian Ott, &quot;Online Learning of Centroidal Angular Momentum Towards Enhancing DCM-Based Locomotion&quot;, in <i>Proc. of the IEEE International Conference on Robotics and Automation</i>, 10442-10448, Philadelphia, USA, Mai 2022.
+
+Robert Schuller, George Mesesan, Johannes Englsberger, Jinoh Lee, and Christian Ott, &quot;Online Centroidal Angular Momentum Reference Generation and Motion Optimization for Humanoid Push Recovery,&quot;&nbsp;<em>IEEE Robotics and Automation Letters &#40;RA-L&#41;</em>, vol. 6, no. 3, pp. 5689-5696, July 2021.
+
 
 For a complete list of publications, please visit my <a href="https://scholar.google.com/citations?user=1umt-ZEAAAAJ&hl=de">Google Scholar</a> profile.
 

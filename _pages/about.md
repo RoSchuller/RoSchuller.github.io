@@ -24,7 +24,7 @@ Publications
 Journal papers
 ------
 <p>
-<strong>&#91;J1&#93;</strong>&nbsp;<strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, and Christian Ott, &quot;Online Centroidal Angular Momentum Reference Generation and Motion Optimization for Humanoid Push Recovery,&quot;&nbsp;<em>IEEE Robotics and Automation Letters &#40;RA-L&#41;</em>, vol. 6, no. 3, pp. 5689-5696, July 2021. &#91; <a href="https://ieeexplore.ieee.org/abstract/document/9435940">PDF@IEEEXplore</a> &#93;<a accesskey="4" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" id="123" lang="89" name="67" title="10" type="11"></a><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" name="PDF@IEEEXplore"></a><p>
+<strong>&#91;J1&#93;</strong>&nbsp;<strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, and Christian Ott, &quot;Online Centroidal Angular Momentum Reference Generation and Motion Optimization for Humanoid Push Recovery,&quot;&nbsp;<em>IEEE Robotics and Automation Letters &#40;RA-L&#41;</em>, vol. 6, no. 3, pp. 5689-5696, July 2021. &#91; <a href="https://ieeexplore.ieee.org/abstract/document/9435940">PDF@IEEEXplore</a> &#93;<a accesskey="4" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" id="123" lang="89" name="67" title="10" type="11"></a><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" name="PDF@IEEEXplore"></a></p>
 <p>
 <strong>&#91;C2&#93;</strong> George Mesesan, <strong>Robert Schuller</strong>, Johannes Englsberger, Máximo A Roa, Jinoh Lee, Christian Ott, Alin Albu-Schäffer, &quot;Motion Planning for Humanoid Locomotion: Applications to Homelike Environments&quot;, in <i> in IEEE Robotics & Automation Magazine, vol. 32, no. 1, pp. 35-48, March 2025 &#91; <a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=10852154">PDF@IEEEXplore</a> &#93;.</p>
 
@@ -37,6 +37,7 @@ Conference papers
 <p>
 <strong>&#91;C3&#93;</strong> Jean-Pascal Lutze, <strong>Robert Schuller</strong>, Hrishik Mishra, Ismael Rodriguez and Maximo A. Roa, &quot;<span lang="EN-US" style="mso-ansi-language:EN-US">Optimization of multi-arm robot locomotion to reduce satellite disturbances during in-orbit assembly</span>&quot;, in <i>Proc. of the IEEE Aerospace Conference</i>, 1-11, Big Sky, MT, USA, Mai 2022 &#91; <a href="https://ieeexplore.ieee.org/abstract/document/10115776">PDF@IEEEXplore</a> &#93;.</p>
 <strong>&#91;C2&#93;</strong> Sait Sovukluk, <strong>Robert Schuller</strong>, Johannes Englsberger, Christian Ott, &quot;Realtime Limb Trajectory Optimization for Humanoid Running Through Centroidal Angular Momentum Dynamics&quot;, in <i>Proc. of the IEEE International Conference on Robotics and Automation</i>, Atlanta, USA, Mai 2025 &#91; <a href="https://arxiv.org/abs/2501.17351">Draft</a> &#93;.</p>
+<p>
 <strong>&#91;C2&#93;</strong> Connor W Herron, <strong>Robert Schuller</strong>, Benjamin C Beiter, Robert J Griffin, Alexander Leonessa, Johannes Englsberger, &quot;Angular Divergent Component of Motion: A step towards planning Spatial DCM Objectives for Legged Robots&quot;, in <i>Proc. of the IEEE International Conference on Robotics and Automation</i>, Atlanta, USA, Mai 2025 &#91; <a href="https://arxiv.org/pdf/2409.12796">Draft</a> &#93;.</p>
 
 Patents

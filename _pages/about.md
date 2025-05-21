@@ -20,12 +20,23 @@ Interests
 
 Publications
 ======
+
 Journal papers
 ------
-<strong>&#91;J1&#93;</strong>&nbsp;<strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, and Christian Ott, &quot;Online Centroidal Angular Momentum Reference Generation and Motion Optimization for Humanoid Push Recovery,&quot;&nbsp;<em>IEEE Robotics and Automation Letters &#40;RA-L&#41;</em>, vol. 6, no. 3, pp. 5689-5696, July 2021. &#91; <a href="https://ieeexplore.ieee.org/abstract/document/9435940">PDF@IEEEXplore</a> &#93;<a accesskey="4" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" id="123" lang="89" name="67" title="10" type="11"></a><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" name="PDF@IEEEXplore"></a></p>
+<p>
+<strong>&#91;J1&#93;</strong>&nbsp;<strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, and Christian Ott, &quot;Online Centroidal Angular Momentum Reference Generation and Motion Optimization for Humanoid Push Recovery,&quot;&nbsp;<em>IEEE Robotics and Automation Letters &#40;RA-L&#41;</em>, vol. 6, no. 3, pp. 5689-5696, July 2021. &#91; <a href="https://ieeexplore.ieee.org/abstract/document/9435940">PDF@IEEEXplore</a> &#93;<a accesskey="4" href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" id="123" lang="89" name="67" title="10" type="11"></a><a href="https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=9435940" name="PDF@IEEEXplore"></a><p>
 
 Conference papers
 ------
+<p>
+	<strong>&#91;C1&#93;</strong> Johannes Englsberger, Alessandro M. Giordano, Achraf Hiddane, <strong>Robert Schuller</strong>, Florian Loeffel, George Mesesan, Christian Ott, &quot;From Space to Earth - Relative-CoM-to-Foot &#40;RCF&#41; control yields high contact robustness&quot;, in <i>Proc. of the 20th IEEE-RAS International Conference on Humanoid Robots</i>, Munich, Germany, July 2021. &#91; <a href="https://elib.dlr.de/143111/1/Humanoids_2021_RCF.pdf">Draft </a>&#93;</p>
+<p>
+	<strong>&#91;C2&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, and Christian Ott, &quot;Online Learning of Centroidal Angular Momentum Towards Enhancing DCM-Based Locomotion&quot;, in <i>Proc. of the IEEE International Conference on Robotics and Automation</i>, 10442-10448, Philadelphia, USA, Mai 2022 &#91; <a href="https://ieeexplore.ieee.org/abstract/document/9811708">PDF@IEEEXplore</a> &#93;.</p>
+<p>
+	<strong>&#91;C3&#93;</strong> Jean-Pascal Lutze, <strong>Robert Schuller</strong>, Hrishik Mishra, Ismael Rodriguez and Maximo A. Roa, &quot;<span lang="EN-US" style="mso-ansi-language:EN-US">Optimization of multi-arm robot locomotion to reduce satellite disturbances during in-orbit assembly</span>&quot;, in <i>Proc. of the IEEE Aerospace Conference</i>, 1-11, Big Sky, MT, USA, Mai 2022 &#91; <a href="https://ieeexplore.ieee.org/abstract/document/10115776">PDF@IEEEXplore</a> &#93;.</p>
+
+
+
 
 Patents
 ======

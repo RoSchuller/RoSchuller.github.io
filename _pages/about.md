@@ -21,7 +21,7 @@ Interests
 Publications
 ======
 
-For a complete list of publications, please visit https://scholar.google.com/citations?user=1umt-ZEAAAAJ&hl=de
+For a complete list of publications, please visit my <a href="https://scholar.google.com/citations?user=1umt-ZEAAAAJ&hl=de">Google Scholar</a> profile.
 
 Patents
 ======

@@ -38,11 +38,16 @@ For a complete list of publications, please visit my <a href="https://scholar.go
 Patents
 ======
 <p>
-<strong>&#91;P1</strong><strong>&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, Christian Ott, &quot;Verfahren zur Balancierung eines Roboters....&quot;, German patent application no. 10 2021112 485.9, filed on Mai 12, 2021.</p>
+<strong>&#91;P1</strong><strong>&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, Christian Ott, &quot;Verfahren zur Balancierung eines Roboters....&quot;, German patent application no. 10 2021112 485.9.</p>
 <p>
-	<strong>&#91;P2</strong><strong>&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, Christian Ott, &quot;Verfahren zur Gangsteuerung eines Roboters....&quot;, German patent application no. 10 2022 107 587.7, filed on March 30, 2022 &#40;under review&#41;.</p>
+	<strong>&#91;P2</strong><strong>&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, Christian Ott, &quot;Verfahren zur Gangsteuerung eines Roboters....&quot;, German patent application no. 10 2022 107 587.7, &#40;under review&#41;.</p>
+ 	<strong>&#91;P3</strong><strong>&#93;</strong> George&nbsp;Mesesan,  <strong>Robert Schuller</strong>, Johannes Englsberger, Christian Ott, &quot;Verfahren und System zum Planen ....&quot;, German patent application no. 10 202312 655.9.</p>
+  <p>
+	<strong>&#91;P3</strong><strong>&#93;</strong> Jean-Pascal Lutze,  <strong>Robert Schuller</strong>, Hrishik Mishra &quot;Erweiterbares Attitude Control System ...&quot;, German patent application no. 10 202313 6423.5, &#40;under review&#41;.</p>
  <p>
-	<strong>&#91;P3</strong><strong>&#93;</strong> George&nbsp;Mesesan,  <strong>Robert Schuller</strong>, Johannes Englsberger, Christian Ott, &quot;Verfahren und System zum Planen ....&quot;, German patent application no. 10 202312 655.9, filed on March 6, 2025.</p>
+	<strong>&#91;P3</strong><strong>&#93;</strong> <strong>Robert Schuller</strong>,  Jean-Pascal Lutze,  Roberto Lampariello, Hrishik Mishra, &quot;System und Verfahren zur Lageregelung ...&quot;, German patent application no. 10 202411 8224.5, &#40;under review&#41;.</p>
+ <p>
+
 
 
 Multimedia

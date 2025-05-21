@@ -40,7 +40,10 @@ Conference papers
 
 Patents
 ======
-
+<p>
+	<strong>&#91;P1</strong><strong>&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, Christian Ott, &quot;Verfahren zur Balancierung eines Roboters....&quot;, German patent application no. 10 2021112 485.9, filed on Mai 12, 2021.</p>
+<p>
+	<strong>&#91;P2</strong><strong>&#93;</strong> <strong>Robert Schuller</strong>, George&nbsp;Mesesan, Johannes Englsberger, Jinoh Lee, Christian Ott, &quot;Verfahren zur Gangsteuerung eines Roboters....&quot;, German patent application no. 10 2022 107 587.7, filed on March 30, 2022 &#40;under review&#41;.</p>
 
 Site-wide configuration
 ------
